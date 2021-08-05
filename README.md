@@ -53,7 +53,5 @@
 [website]: https://webportfolio-nextjs.vercel.app/
 [twitter]: https://twitter.com/Imran88466564
 
-[youtube]:
-[instagram]:
 [doodle]:https://www.instagram.com/old.notepad/
 [linkedin]: https://www.linkedin.com/in/mohd-imran-khan-55045a153
