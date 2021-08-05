@@ -6,7 +6,7 @@
 - 👀 I’m interested in web technologies.
 - 🌱 I’m currently learning web development.
 - 📫 You can reach me at mohdimran.khan751@gmail.com
-- 🥅 2021 Goals: Contribute more to Open Source projects/ more competative coding
+- 🥅 2021 Goals: Contribute more to Open Source projects/ more competitive coding
 - ⚡ Fun fact: I love to draw and doodle. Take a look - [doodle]
 
 ### Connect with me:
@@ -44,7 +44,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <!-- <img align="left" alt="wreakhead's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" /> -->
+<img align="left" alt="wreakhead's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wreakhead&show_icons=true&hide_border=true" />
 
 </details>
 
