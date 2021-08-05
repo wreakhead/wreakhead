@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="webportfolio-nextjs.vercel.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="IMRAN | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="webportfolio-nextjs.vercel.app/" width="22px" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/945b0225337909.563440870421b.png" />][website]
+[<img align="left" alt="IMRAN | Twitter" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" />][twitter]
 [<img align="left" alt="IMRAN | LinkedIn" width="22px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" />][linkedin]
 
 
