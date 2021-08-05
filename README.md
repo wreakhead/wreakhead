@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning web development.
 - 📫 You can reach me at mohdimran.khan751@gmail.com
 - 🥅 2021 Goals: Contribute more to Open Source projects/ more competative coding
-- ⚡ Fun fact: I love to draw and doodle.Take a look[doodle]
+- ⚡ Fun fact: I love to draw and doodle. Take a look - [doodle]
 
 ### Connect with me:
 
