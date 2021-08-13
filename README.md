@@ -45,6 +45,7 @@
   <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="wreakhead's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wreakhead&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wreakhead&show_icons=true&locale=en&layout=compact" alt="wreakhead" />  
 
 </details>
 
