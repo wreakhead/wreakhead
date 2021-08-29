@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="webportfolio-nextjs.vercel.app/" width="28px" height="28px" src="https://cdn1.iconfinder.com/data/icons/marketing-and-digital-marketing-2/48/Marketing_portfolio_portfolio-512.png" />][website]
+[<img align="left" alt="webportfolio-nextjs.vercel.app/" width="28px" height="28px" src="https://cdn1.iconfinder.com/data/icons/marketing-and-digital-marketing-2/48/Marketing_portfolio_portfolio-512.png" />][]
 [<img align="left" alt="IMRAN | Twitter" width="28px" height="28px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" />][twitter]
 [<img align="left" alt="IMRAN | LinkedIn" width="28px" height="28px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" />][linkedin]
 
