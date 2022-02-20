@@ -34,7 +34,6 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" />
-<img align="left" alt="NumPy" width="26px" src="https://techscript24.com/wp-content/uploads/2020/10/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" />
 <img align="left" alt="Jupiter notebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <br />
 <br />
@@ -44,7 +43,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="wreakhead's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wreakhead&show_icons=true&hide_border=true" />
+<img align="left" alt="wreakhead's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wreakhead&show_icons=true&hide_border=true&theme=merko" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wreakhead&show_icons=true&locale=en&layout=compact" alt="wreakhead" />  
 
 </details>
