@@ -49,7 +49,7 @@
 
 </details>
 
-[website]: https://webportfolio-nextjs.vercel.app/
+
 [twitter]: https://twitter.com/Imran88466564
 
 [doodle]:https://www.instagram.com/old.notepad/
